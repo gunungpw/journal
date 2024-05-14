@@ -1,0 +1,3 @@
+The future of marketing will be defined by analytics. Marketers must use data to more accurately understand who their customer is and predict what their future behavior will be. Open up the following reading to learn more about the data-driven future of marketing.
+
+[The Future of Marketing is Data.pdf PDF File](https://d3c33hcgiwev3.cloudfront.net/FSntcc0lQFup7XHNJZBbSw_8cf6bd043b934487a51250d4c4d735f1_The-Future-of-Marketing-is-Data.pdf?Expires=1715126400&Signature=R5NXlgwkpQdgB6fRtXP6GertzJryejVWqbDpFh1S2NZRCpwKzywxmAizY18uAtdIS-bfYQP7eytfQxcdRnS~KAyHcVKaNhTX7YDCM0FoQfCeu9KqVg2FJax~JzuZ1nldkfuG~o6W724GqkRx67GpyxZQCH4UiR9v5EZ65~usfU0_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
