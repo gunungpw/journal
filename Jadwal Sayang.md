@@ -8,5 +8,3 @@
 | Jumat  | Libur       |             |             |             |
 | Sabtu  | 10.00-11.30 | 13.00-14.30 | 16.00-17.30 |             |
 | Minggu | 09.00-10.30 | 14.00-15.30 | 16.00-17.30 | 19.30-20.30 |
-note: Minggu depan jumat sabtu kelas malam hilang
-jumat jadi libur
