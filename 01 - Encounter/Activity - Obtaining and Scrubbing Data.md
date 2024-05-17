@@ -21,7 +21,7 @@ There are two options to access this document. 
 - If you do not have a Google account, you can download the template as an editable PDF. 
     
 
-[Intro to Data Analytics Activity Templates_Editable PDF File](https://d3c33hcgiwev3.cloudfront.net/poeRbxVXRFGWnUsEoyvVIA_1187ccce629f4538a7525240a8e188f1_Intro-to-Data-Analytics-Activity-Templates_Editable-PDF.pdf?Expires=1715990400&Signature=Iq8oQAIl0EWa0whx1qjctJZX1GB9XPozLkYeVDN5oSTo2gDrPlU-R6HW0ifgTiUSJzdmW7EHyvk9XT4njpwqoRXU8w8hu-ObiSLzxtUu89rg3hZhuK7V44tKK4j~S5TJVvKUnrgSvvOP0Yv95MmpsZMdjImlPKJIo5bQbzqJYvg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[Intro to Data Analytics Activity Templates Editable PDF File](https://d3c33hcgiwev3.cloudfront.net/poeRbxVXRFGWnUsEoyvVIA_1187ccce629f4538a7525240a8e188f1_Intro-to-Data-Analytics-Activity-Templates_Editable-PDF.pdf?Expires=1715990400&Signature=Iq8oQAIl0EWa0whx1qjctJZX1GB9XPozLkYeVDN5oSTo2gDrPlU-R6HW0ifgTiUSJzdmW7EHyvk9XT4njpwqoRXU8w8hu-ObiSLzxtUu89rg3hZhuK7V44tKK4j~S5TJVvKUnrgSvvOP0Yv95MmpsZMdjImlPKJIo5bQbzqJYvg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ### **Step 2: Access the activity dataset**
 
