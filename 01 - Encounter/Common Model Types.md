@@ -1,0 +1,19 @@
+# Common Model Types
+
+## Regression Models
+
+Predict ‘How much’ or ‘how many’
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/N2IiBQAlQZuni1cxcr5n6Q_7cb13cea493c48a28f049e2cfa0e2df1_UOcByIDLKLqIX6Wx0bj6g4tZCDQ-SlVsCrG7qzGbmS7Ep4IklhfQj9xRLLTVqkR9O_8zsTjv7_IvoKg7H-p4ohyaRanK02XGTI5OBTsgsrryAJ_RfEmzTFLUn241fSzSxFJ3ZnLY_l0zbueJ-j2b84Q?expiry=1716076800000&hmac=Rl3EQkY2O_OnO5488mtXRcRqlh9FHBmajIbi_H6rjPA)
+
+## Classification Models
+
+Predict class or category a datapoint belongs to
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Bv5g7DZMTbmJ2LmBimq4ug_f5631fc456b64f8398cc4d047ac139f1_5VivkeZh6YDcQbdIgjprb98WtB8FgB7HZKue7sCcxxCf2QipUABYSMVJHSmf12ds-RFEjbsTjRjI0fREITC2Tki0uxf3J-mFJxgnMoLSF6BGjAb3AO8KiSVXWq8YmWQdkhyj2NNnnhCTaYIa65OwfZo?expiry=1716076800000&hmac=fhrkCCd5WiZCLuRmFbYR5dnm3j2qs-MYTvyP4WiG-K4)
+
+## Clustering Models
+
+Identify groups of similar records in your data
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/aSmZd569SWWsLolMyqKBCg_d9b18b34500b458e9141e7ce793d69f1_0kEvip9MG6SgK7JjmVD-U_128yyl3quS55vvQ0hQU1b3BzIpQ-pN9oBM3uTq5bw2EQ3agc7FFFD_5yH307fJ_hSFTD4DkDkNdYhbAfSMgAvKvIp0qtt7NsrZyX98WV5i0icoXlhfyzCeYmmg5rCGW7M?expiry=1716076800000&hmac=BgtQGNZfSWjC2v6qH_eHSh4JdtR3bjBgJBRAKE74nDA)
