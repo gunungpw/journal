@@ -1,0 +1,7 @@
+---
+tags:
+  - supply-chain-management
+---
+# Air Carriers
+
+In the complex network between shippers, airports, air carriers, and customers, there are three basic types of operation. There are all-cargo carriers where you get the whole plane and it flies from the origin to your destination. Then you can move cargo in the belly of commercial planes and use their network, or you can move cargo through commercial parcel carriers, which have their own planes and sometimes even their own airports. Weights in air transportation are a mystery to many. On paper it looks simple, you get quoted the weight. However, weight must also correspond to a certain density. So, for example, a 1 kilogram package must be no larger than 6000 cubic centimeters. If it is heavier, you pay for the higher weight, but it's a smaller package. If it is bigger, you pay for the volume corresponding to a certain weight. So it's weight, but only if that weight is also a certain volume. Air carriers compete amongst two major lines. One is amongst fuel, which is their largest expense. And the better companies can use hedging to protect themselves against future price increases, the higher of a profit they can turn. The other one is delays added on by security. Delays, and the better companies can use technology to streamline that process, the better they will compete.
