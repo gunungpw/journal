@@ -25,3 +25,21 @@ tags:
 - **Reading:** [[Information on Express Delivery]]
 - **Reading:** [[Express Delivery Firms Background]]
 - **Reading:** [[Comparison of Transportation Modes]]
+
+# Week 2
+## Warehousing Management
+
+- **Video:** [[Why do companies need warehouses]]
+- **Discussion Prompt:** [[Features of warehouses]]
+- **Video:** [[How should we design a warehouse]]
+- **Discussion Prompt:** [[New technology in warehouses]]
+- **Reading:** [[Warehousing Best Practices]]
+- **Peer-graded Assignment:** [[Lay out your own Warehouse]]
+- **Review Your Peers:** [[Lay out your own Warehouse]]
+
+## Inventory Management  
+
+- **Video:** [[How much inventory do we need]]
+- **Discussion Prompt:** [[Cost of Inventory]]
+- **Video:** [[When to order inventory]]
+- **Quiz:** Inventory Assessment
