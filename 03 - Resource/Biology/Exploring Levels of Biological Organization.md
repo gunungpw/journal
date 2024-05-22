@@ -19,3 +19,7 @@ A population consists of all the individuals of a species living within the boun
 ## Organisms
 
 Individual living things are called organisms. Each plant in the meadow is an organism, and so is each animal, fungus, and bacterium.
+
+---
+
+1. Urry, L. A., Cain, M. L., Wasserman, S. A., Minorsky, P. V., & Orr, R. B. (2020). _Campbell Biology_.

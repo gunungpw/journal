@@ -7,20 +7,24 @@ tags:
 # Week 1
 ## Welcome and Introduction to Logistics
 - **Video:** [[The Importance of Logistics]]
+- **Discussion Prompt**: [[What are you looking to learn from this course]]
 - **Reading:** [[Is this course for me]]
 ## Motor Freight
 - **Video:** [[Moving Freight over the Road]]
 - **Reading:** [[Information about Moving Freight over the Road]]
+- **Discussion Prompt:** [[Characteristics of truck that ideal mode of transportation goods]]
 - **Video:** [[Motor Carriers]] 
 - **Reading:** [[Information about Motor Carriers]]
 ## Air Freight
 - **Video:** [[Flying Freight]]
 - **Reading:** [[Information about Flying Freight]]
+- **Discussion Prompt:** [[Types of Goods moved on planes]]
 - **Video:** [[Air Carriers]]
 - **Reading:** [[Information about Air Carriers]]
 ## Intermodal and Express Delivery
 - **Video:** [[Containers on a Train]]
 - **Reading:** [[Information on Containers on a Train]]
+- **Discussion Prompt:** [[Goods on rail]]
 - **Video:** [[Express Delivery]]
 - **Reading:** [[Information on Express Delivery]]
 - **Reading:** [[Express Delivery Firms Background]]
