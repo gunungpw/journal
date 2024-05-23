@@ -1,0 +1,4 @@
+# Amir: Attributes in an IT support space
+
+So there are three key attributes that we review when taking a look at potential people for the IT support space. First and foremost passion the IT space is always changing and in order to stay on top of it and continue learning, you're going to need to be passionate about the space. The next is going to be problem solving. You will not have all the answers to all the questions that people ask you and that's okay. What you need to have is a strategy and the tools and resources to find that answer to help support some of these new challenges that come up as technology develops. The third is communication. You're working with a wide range of individuals and those soft skills when communicating with people and supporting them and making sure you understand what their needs are is very, very important to be successful in this role and make sure that you are providing them with a positive experience.
+

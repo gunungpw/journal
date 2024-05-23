@@ -1,0 +1,4 @@
+# Changing Careers to IT Support
+
+A lot of the skills from my previous jobs, such as at the call center that I can apply now, is my attention to detail. Having the soft skills of being creative, thinking outside of the box, those have all helped me in my new position. >> All the jobs that I've had prior to IT, their main fundamental was customer service. It's that same customer service fundamental that has transferred to my current IT position. >> I definitely think that working, especially for the police department, did get me prepared for this. Because when you're working in a 911 center, you really never know what's going to happen. >> I was already in a really high position as a restaurant manager, and that's when I felt like I plateaued. I couldn't do that for the rest of my life. And here I am as an IT consultant entry level. I have health insurance. I have plenty of time off.
+
