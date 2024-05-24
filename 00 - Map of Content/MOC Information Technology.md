@@ -214,3 +214,193 @@
 - **Video**: [[Course Wrap Up - Technical Support Fundamental]]
 - **Video**: [[Sabrina Technology can open doors]]
 - **Reading**: [[Module 6 Glossary Technical Support Fundamental]]
+
+# The Bits and Bytes of Computer Networking
+
+## Module 1
+### Introduction to Computer Networking
+
+- **Video**: [[Course Introduction Computer Networking]]
+- **Reading**: [[Navigating Coursera - The Bits and Bytes of Computer Networking]]
+- **Reading**: [[Earn a dual Google CompTIA A+ credential]]
+
+### The TCP/IP Five-Layer Network Model
+
+- **Video**: [[The TCPIP Five-Layer Network Model]]
+- **Reading**: [[Supplementary Reading for The OSI Networking Model]]
+- **Video**: [[Alex Why networking is important]]
+
+### The Basics of Networking Devices
+
+- **Video**: [[Cables]]
+- **Video**: [[Hubs and Switches]]
+- **Video**: [[Routers]]
+- **Video**: [[Servers and Clients]]
+- **Discussion Prompt**: [[Setting Up a Network]]
+- **Video**: [[Sergio Being a network engineer]]
+
+### The Physical Layer
+
+- **Video**: [[Moving Bits Across the Wire]]
+- **Video**: [[Twisted Pair Cabling and Duplexing]]
+- **Reading**: [[Supplemental Reading for Ethernet Over Twisted Pair Technologies]]
+- **Reading**: [[Supplemental Reading for Twisted Pair Ethernet Crossover Cables]]
+- **Video**: [[Network Ports and Patch Panels]]
+- **Reading**: [[Cabling Tools]]
+
+### The Data Link Layer
+
+- **Video**: [[Ethernet and MAC Addresses]]
+- **Video**: [[Unicast, Multicast, and Broadcast]]
+- **Video**: [[Dissecting an Ethernet Frame]]
+- **Video**: [[Victor Practical experience in IT]]
+
+## Module 2
+
+### Introduction
+- **Video:** [[Introduction to The Network Layer]]
+
+### The Network Layer
+- **Video:** [[The Network Layer]]
+- **Video:** [[IPv4 Addresses]]
+- **Video:** [[IPv4 Datagram and Encapsulation]]
+- **Video:** [[IPv4 Address Classes]]
+- **Video:** [[Address Resolution Protocol]]
+- **Discussion Prompt:** [[Looking up IP Addresses]]
+- **Practice Quiz:** [[The Network Layer]]
+- **Video:** [[Sergio My career path]]
+
+### Subnetting
+- **Video:** [[Subnetting]]
+- **Video:** [[Subnet Masks]]
+- **Video:** [[Basic Binary Math]]
+- **Video:** [[CIDR]]
+- **Practice Quiz:** [[Subnetting]]
+
+### Routing
+- **Video:** [[Basic Routing Concepts]]
+- **Video:** [[Routing Tables]]
+- **Video:** [[Interior Gateway Protocols]]
+- **Video:** [[Exterior Gateways, Autonomous Systems, and the IANA]]
+- **Reading:** [[Supplemental Reading for Routing Protocol Examples]]
+- **Video:** [[Non-Routable Address Space]]
+- **Reading:** [[Supplemental Reading for RFCs and Standards]]
+- **Video:** [[Alex My success story]]
+
+## Module 3
+
+### Introduction to the Transport and Application Layers
+- **Video:** [[Introduction to the Transport and Application Layers]]
+
+### The Transport Layer
+- **Video:** [[The Transport Layer]]
+- **Video:** [[Dissection of a TCP Segment]]
+- **Video:** [[TCP Control Flags and the Three-way Handshake]]
+- **Video:** [[TCP Socket States]]
+- **Video:** [[Connection-oriented and Connectionless Protocols]]
+- **Reading:** [[Supplemental Reading for System Ports versus Ephemeral Ports]]
+- **Video:** [[Firewalls]]
+- **Practice Quiz:** [[The Transport Layer]]
+
+### The Application Layer
+- **Video:** [[The Application Layer]]
+- **Video:** [[The Application Layer and the OSI Model]]
+- **Video:** [[All the Layers Working in Unison]]
+- **Video:** [[Learner Story Daniel]]
+
+## Module 4
+### Introduction to Network Services
+- **Video:** [[Introduction to Network Services]]
+
+### Name Resolution
+- **Video:** [[Why do we need DNS]]
+- **Video:** [[The Many Steps of Name Resolution]]
+- **Video:** [[DNS and UDP]]
+- **Discussion Prompt:** [[Your Personal Website]]
+- **Video:** [[Sergio A journey to the IT field]]
+
+### Name Resolution in Practice
+- **Video:** [[Resource Record Types]]
+- **Video:** [[Anatomy of a Domain Name]]
+- **Video:** [[DNS Zones]]
+
+### Dynamic Host Configuration Protocol
+- **Video:** [[Overview of DHCP]]
+- **Video:** [[DHCP in Action]]
+
+### Network Address Translation
+- **Video:** [[Basics of NAT]]
+- **Video:** [[NAT and the Transport Layer]]
+- **Reading:** [[Supplemental Reading for IPv4 Address Exhaustion]]
+
+### VPNs and Proxies
+- **Video:** [[Virtual Private Networks]]
+- **Video:** [[Proxy Services]]
+- **Discussion Prompt:** [[VPNs Legal or Illegal]]
+
+## Module 5
+
+### Introduction to Connecting to the Internet
+- **Video:** [[Introduction to Connecting to the Internet]]
+
+### POTS and Dial-up
+- **Video:** [[Dial-up and Modems]]
+
+### Broadband Connections
+- **Video:** [[What is broadband]]
+- **Video:** [[T-Carrier Technologies]]
+- **Video:** [[Digital Subscriber Lines]]
+- **Video:** [[Cable Broadband]]
+- **Video:** [[Fiber Connections]]
+- **Reading:** [[Supplemental Reading for Broadband Protocols]]
+
+### WANs
+- **Video:** [[Wide Area Network Technologies]]
+- **Reading:** [[Supplemental Reading for WAN Protocols]]
+- **Video:** [[Point-to-Point VPNs]]
+
+### Wireless Networking
+- **Video:** [[Introduction to Wireless Networking Technologies]]
+- **Reading:** [[Wi-Fi 6]]
+- **Reading:** [[Supplemental Reading for Alphabet Soup]]
+- **Reading:** [[Supplemental Reading for IoT Data Transfer Protocols]]
+- **Video:** [[Wireless Network Configurations]]
+- **Video:** [[Wireless Channels]]
+- **Video:** [[Wireless Security]]
+- **Reading:** [[Protocols & Encryption]]
+- **Video:** [[Cellular Networking]]
+- **Video:** [[Mobile Device Networks]]
+- **Reading:** [[Supplemental Reading for Mobile Device Networks]]
+- **Discussion Prompt:** [[Your Daily Connection]]
+
+## Module 6
+### Introduction to Troubleshooting and the Future of Networking
+- **Video:** [[Introduction to Troubleshooting and the Future of Networking]]
+### Verifying Connectivity
+- **Video:** [[Ping Internet Control Message Protocol]]
+- **Reading:** [[Command Line Troubleshooting Tools]]
+- **Video:** [[Traceroute]]
+- **Video:** [[Testing Port Connectivity]]
+- **Reading:** [[Supplemental Reading for Testing Port Connectivity]]
+- **Practice Quiz:** [[Verifying Connectivity]]
+### Digging into DNS
+- **Video:** [[Name Resolution Tools]]
+- **Video:** [[Public DNS Servers]]
+- **Video:** [[DNS Registration and Expiration]]
+- **Video:** [[Hosts Files]]
+- **Practice Quiz:** [[Digging into DNS]]
+### The Cloud
+- **Video:** [[What is The Cloud]]
+- **Video:** [[Everything as a Service]]
+- **Video:** [[Cloud Storage]]
+- **Discussion Prompt:** [[Digital Footprints in the Cloud]]
+### IPv6
+- **Video:** [[IPv6 Addressing and Subnetting]]
+- **Video:** [[IPv6 Headers]]
+- **Video:** [[IPv6 and IPv4 Harmony]]
+- **Reading:** [[Supplemental Reading for IPv6 and IPv4 Harmony]]
+- **Video:** [[Interview Role Play Networking]]
+### Course Wrap Up
+- **Video:** [[Course Wrap Up - The Bits and Bytes of Computer Networking]]
+- **Video:** [[Alex My career path]]
+- **Reading:** [[Course Glossary - The Bits and Bytes of Computer Networking]]
