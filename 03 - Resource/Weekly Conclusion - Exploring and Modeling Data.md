@@ -1,0 +1,3 @@
+# Weekly Conclusion - Exploring and Modeling Data
+
+That brings us to the end of another week in this course. You're doing great. We have now covered four of the five steps in the OSEMN framework, and you're well on your way to becoming a data analyst! You know how to explore your data by examining data distributions and relationships. You also know the different types of models and how they can be used to make predictions from your data. And you've seen the explore and model phases applied to a real-world example. Now, we will move on to the final step of the OSEMN framework INterpreting the data. See you there!

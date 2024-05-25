@@ -215,7 +215,7 @@
 - **Video**: [[Sabrina Technology can open doors]]
 - **Reading**: [[Module 6 Glossary Technical Support Fundamental]]
 
-# The Bits and Bytes of Computer Networking
+# Computer Networking
 
 ## Module 1
 ### Introduction to Computer Networking
@@ -404,3 +404,276 @@
 - **Video:** [[Course Wrap Up - The Bits and Bytes of Computer Networking]]
 - **Video:** [[Alex My career path]]
 - **Reading:** [[Course Glossary - The Bits and Bytes of Computer Networking]]
+
+# Operating Systems
+## Module 1
+### Introduction to Operating Systems and Becoming a Power User
+- **Video:** Course Introduction - Operating Systems and Becoming a Power User
+- **Reading:** Navigating Coursera
+- **Reading:** How to Use Discussion Forums
+- **Reading:** Get to Know Your Classmates
+- **Discussion Prompt:** Meet and Greet
+
+### Basic Commands
+- **Video:** Lesson Overview & Practice Tips
+- **Reading:** Supplemental Reading for Windows CLI & Unix Bash
+- **Video:** Windows: List Directories in a GUI
+- **Reading:** Supplemental Reading for 'Size' vs 'Size of Disk' in Windows
+- **Video:** Windows: List Directories in CLI
+- **Video:** Linux: List Directories
+- **Video:** Windows: Changing Directories in the GUI
+- **Video:** Windows: Changing Directories in the CLI
+- **Video:** Linux: Changing Directories in Bash
+- **Video:** Windows: Make Directories in the GUI & CLI
+- **Video:** Linux: Make Directories in Bash
+- **Video:** Windows: Command History
+- **Video:** Linux: Command History
+- **Video:** Windows: Copying Files & Directories
+- **Video:** Linux: Copying Files and Directories
+- **Video:** Windows: Moving and Renaming Files, Directories
+- **Video:** Linux: Moving and Renaming Files, Directories
+- **Video:** Windows: Removing Files & Directories
+- **Video:** Linux: Removing Files & Directories
+- **Discussion Prompt:** Your Favorite OS
+- **Practice Quiz:** Basic Commands
+- **Video:** Chelsea: Their learner story
+- **Video:** Cindy: Why OS is important
+
+### File and Text Manipulation
+- **Video:** Windows: Display File Contents
+- **Video:** Linux: Display File Contents
+- **Video:** Windows: Modifying Text Files
+- **Reading:** Supplemental Reading for Notepad++
+- **Video:** Linux: Modifying Text Files
+- **Reading:** Supplemental Reading for GNU Documentation
+- **Video:** Windows Powershell
+- **Video:** Windows: Searching within Files
+- **Video:** Windows: Searching within Directories
+- **Video:** Linux: Searching within Files
+- **Video:** Windows: Input, Output, and the Pipeline
+- **Video:** Linux: Input, Output and Pipeline
+- **Video:** Windows and Linux Advanced Navigation
+- **Reading:** Supplemental Reading for Windows PowerShell
+- **Discussion Prompt:** What did you learn about OS?
+- **Practice Quiz:** File and Text Manipulation
+- **Video:** Ben: My first tech job
+- **Reading:** Module 1 Glossary
+
+### Graded Assessments
+- **Reading:** Qwiklabs guidelines and troubleshooting steps
+- **Graded App Item:** Creating, Modifying, and Removing Files and Folders in Windows
+- **Graded App Item:** Creating, Modifying and Removing Files and Folders in Linux
+## Module 2
+### Users and Groups
+- **Video:** Users, Administrators, and Groups, Oh My!
+- **Video:** Windows: View User and Group Information
+- **Video:** Windows: View User and Group Information using CLI
+- **Video:** Linux: Users, Superuser and Beyond
+- **Video:** Windows: Passwords
+- **Reading:** Supplemental Reading for Windows Passwords
+- **Video:** Linux: Passwords
+- **Video:** Windows: Adding and Removing Users
+- **Video:** Linux: Adding and Removing Users
+- **Video:** Mobile Users and Accounts
+- **Reading:** Supplemental Readings for Mobile Users and Accounts
+- **Video:** Ben: Life as a CIO
+
+### Permissions
+- **Video:** Windows: File Permissions
+- **Reading:** Supplemental Reading for Windows ACL
+- **Video:** Linux: File Permissions
+- **Video:** Windows: Modifying Permissions
+- **Video:** Linux: Modifying Permissions
+- **Video:** Windows: Special Permissions
+- **Reading:** Supplemental Reading for Special Permissions in Windows
+- **Video:** Linux: SetUID, SetGID, Sticky Bit
+- **Discussion Prompt:** Your File & Folder Permissions
+- **Reading:** Module 2 Glossary
+- **Practice Quiz:** Permissions
+
+### Graded Assessments
+- **Graded App Item:** Creating, Modifying, and Removing File and Folder Permissions in Windows
+- **Graded App Item:** Creating, modifying, and removing file and folder permissions in Linux
+- **Quiz:** Users, Administrators, Groups, and Permissions
+## Module 3
+### Software Distribution
+- **Video:** Module Introduction
+- **Video:** Windows: Software Packages
+- **Reading:** Supplemental Reading for Windows Software Packages
+- **Video:** Linux: Software Packages
+- **Video:** Mobile App Packages
+- **Reading:** Supplemental Reading for Mobile App Packages
+- **Reading:** Supplemental Reading for Updating Mobile Apps
+- **Reading:** Supplemental Reading for Mobile Device Storage
+- **Video:** Windows: Archives
+- **Reading:** Supplemental Reading for 7-Zip and PowerShell Zips
+- **Video:** Linux: Archives
+- **Reading:** Supplemental Reading for the Linux Tar Command
+- **Video:** Windows: Package Dependencies
+- **Reading:** Supplemental reading for Windows Package Dependencies
+- **Video:** Linux: Package Dependencies
+- **Reading:** Supplemental Reading for Linux Package Dependencies
+- **Practice Quiz:** Software Distribution
+
+### Package Managers
+- **Video:** Windows: Package Manager
+- **Reading:** Supplemental Reading for Windows Package Managers
+- **Video:** Linux: Package Manager Apt
+- **Reading:** Supplemental Reading for Linux PPAs
+- **Reading:** Supplemental Reading on GIMP
+- **Practice Quiz:** Package Managers
+
+### What’s happening in the background?
+- **Video:** Windows: Underneath the Hood
+- **Reading:** Windows Setting Panel
+- **Reading:** Supplemental Reading for Windows Installers and Process Monitors
+- **Video:** Linux: Underneath the Hood
+
+### Device Software Management
+- **Video:** Windows: Devices and Drivers
+- **Reading:** Supplemental Reading Windows Devices and Drivers
+- **Video:** Linux: Devices and Drivers
+- **Reading:** Supplemental reading for Linux Devices and Drivers
+- **Video:** Windows: Operating System Updates
+- **Reading:** Supplemental Reading for Windows Update
+- **Video:** Linux: Operating System Updates
+- **Reading:** Supplemental Reading for Linux Update
+- **Discussion Prompt:** What would you do?
+- **Reading:** Module 3 Glossary
+- **Practice Quiz:** Device Software Management
+
+### Graded Assessments
+- **Graded App Item:** Software Packaging and File Archiving on Windows
+- **Graded App Item:** Software Packaging and File Archiving on Linux
+- **Quiz:** Package and Software Management
+## Module 4
+### Filesystem Types
+
+- **Video:** Module Introduction
+- **Video:** Review of Filesystems
+- **Reading:** Supplemental Reading for FAT32 File System
+- **Video:** Disk Partitioning and File System Essentials
+- **Video:** Windows: Disk Partitioning and Formatting a Filesystem
+- **Reading:** Supplemental Reading for Disk Partitioning and Formatting in Windows
+- **Video:** Windows: Mounting and Unmounting a Filesystem
+- **Video:** Linux: Disk Partitioning and Formatting a Filesystem
+- **Video:** Linux: Mounting and Unmounting a Filesystem
+- **Reading:** Supplemental reading Mounting and Unmounting a Filesystem in Linux
+- **Video:** Windows: Swap
+- **Reading:** Supplemental Reading for Windows Paging
+- **Video:** Linux: Swap
+- **Reading:** Supplemental Reading for Linux Swap
+- **Video:** Windows: Files
+- **Reading:** Supplemental Reading on NTFS File System
+- **Video:** Linux: Files
+- **Video:** Windows: Disk Usage
+- **Reading:** Supplemental Reading for Windows Disk Usage
+- **Video:** Linux: Disk Usage
+- **Reading:** Supplemental reading for Linux Disk Usage
+- **Video:** Windows: Filesystem Repair
+- **Video:** Linux: Filesystem Repair
+- **Reading:** Supplemental Reading for Linux Filesystem Repair
+- **Discussion Prompt:** Disk Partitioning
+- **Practice Quiz:** Filesystem Types
+
+### Graded Assessments
+
+- **Graded App Item:** Partitioning and Formatting a Disk Drive in Windows
+- **Graded App Item:** Partitioning and Formatting a Disk Drive in Linux
+- **Quiz:** Filesystems
+## Module 5
+### Life of a Process
+
+- **Video:** Module Introduction
+- **Video:** Programs vs Processes Revisited
+- **Video:** Windows: Process Creation and Termination
+- **Reading:** Supplemental Reading for Process Creation and Termination in Windows
+- **Video:** Linux: Process Creation and Termination
+- **Practice Quiz:** Life of a Process
+- **Video:** Jess: From challenge to passion
+
+### Managing Processes
+
+- **Video:** Windows: Reading Process Information
+- **Reading:** Supplemental Reading for Reading Process Information in Windows
+- **Video:** Linux: Reading Process Information
+- **Reading:** Supplemental Reading for Reading Process Information in Linux
+- **Video:** Windows: Signals
+- **Video:** Linux: Signals
+- **Reading:** Supplemental Reading for Windows Signal
+- **Video:** Windows: Managing Processes
+- **Reading:** Supplemental Reading for Managing Processes in Windows
+- **Video:** Linux: Managing Processes
+- **Video:** Mobile App Management
+- **Reading:** Supplemental Readings for Mobile App Management
+- **Practice Quiz:** Managing Processes
+
+### Process Utilization
+
+- **Video:** Windows: Resource Monitoring
+- **Reading:** Supplemental Reading Resource Monitoring in Windows
+- **Video:** Linux: Resource Monitoring
+- **Reading:** Supplemental reading for Resource Monitoring in Linux
+- **Discussion Prompt:** Your CPU
+- **Reading:** Module 5 Glossary
+- **Practice Quiz:** Process Utilization
+
+### Graded Assessments
+
+- **Graded App Item:** Maintain Efficient Process Utilization on Windows
+- **Graded App Item:** Maintain Efficient Process Utilization on Linux
+- **Quiz:** Process Management
+## Module 6
+### Remote Access
+
+- **Video:** Introduction
+- **Video:** Remote Connections on Windows
+- **Discussion Prompt:** Performing remotely as an IT Support Specialist
+- **Reading:** Supplemental reading for Remote Connections in Windows
+- **Video:** Remote Connection: File Transfer on Linux
+- **Video:** Remote Connection: File Transfer on Windows
+- **Reading:** Supplemental Reading for Remote Connection File Transfer in Windows
+- **Discussion Prompt:** Remote Desktop
+- **Practice Quiz:** Remote Access
+
+### Virtualization
+
+- **Video:** Virtual Machines
+- **Reading:** Supplemental reading for Virtual Machines
+- **Discussion Prompt:** VMs
+
+### Logging
+
+- **Video:** System Monitoring
+- **Video:** The Windows Event Viewer
+- **Video:** Linux Logs
+- **Reading:** Supplemental Reading for Linux Logs
+- **Video:** Working with Logs
+- **Practice Quiz:** Logging
+
+### Operating System Deployment
+
+- **Video:** Imaging Software
+- **Video:** Operating Systems Deployment Methods
+- **Reading:** Supplemental Reading for OS Deployment Methods
+- **Video:** Mobile Device Resetting and Imaging
+- **Reading:** Supplemental Readings for Mobile Device Resetting and Imaging
+- **Reading:** Windows Troubleshooting
+- **Reading:** Windows Troubleshooting Tools
+- **Reading:** Supplemental Reading for Windows Troubleshooting Example
+- **Video:** Interview Role Play: Operating Systems
+
+### Graded Assessments
+
+- **Graded App Item:** Using Logs to Help You Track Down an Issue in Windows
+- **Graded App Item:** Using Logs to Help You Track Down an Issue in Linux
+- **Quiz:** Operating System in Practice
+
+### Course Wrap Up
+
+- **Discussion Prompt:** Your Learning Journey
+- **Video:** Course Wrap Up
+- **Video:** Heather: Early career advice
+- **Reading:** Module 6 Glossary
+- **Reading:** Course 3 Glossary
+- **Video:** Congratulations!

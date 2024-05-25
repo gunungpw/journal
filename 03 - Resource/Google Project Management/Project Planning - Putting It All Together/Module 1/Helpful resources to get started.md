@@ -22,11 +22,11 @@ To receive your official Google Project Management Certificate, you must:
 - Pass all graded assignments in all 6 courses of the certificate program. Each graded assignment is part of a cumulative graded score for the course, and the passing grade for each course is 80%. 
     
 
-AND **one** of the following:
+AND one of the following:
 
 - Pay the [course certificate fee](https://www.coursera.support/s/article/209818963-Payments-on-Coursera?language=en_US),
     
-- Be approved for [Coursera Financial Aid](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US), **or**
+- Be approved for [Coursera Financial Aid](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US), or
     
 - Complete the certificate through an educational institution, employer, or agency that's sponsoring your participation. 
     

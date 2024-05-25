@@ -1,0 +1,2 @@
+
+Congratulations, you've finished the first week in this course. Great job so far. We covered two important topics this week. First, you learned a bit more about what data analytics is and what the role of a data analyst entails. You now know what the OSEMN framework is and how it can help you approach data analytics problems. Next, we'll dive deeper into the different parts of the awesome framework, and I'll walk you through more detail on what's involved at every stage of the data analytics process. See you there.

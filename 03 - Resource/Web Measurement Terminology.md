@@ -1,0 +1,3 @@
+The world of website management and web analytics comes with its own set of terminology and definitions that may be confusing at first. Download this list to increase your knowledge as you begin analyzing website data for your marketing efforts.
+
+[Web Measurement Terminology.pdf PDF File](https://d3c33hcgiwev3.cloudfront.net/kXJT4OToRMqyU-Dk6DTK8A_467f92d40ff04b799ff122a16925b6f1_Web-Measurement-Terminology.pdf?Expires=1715644800&Signature=GuYgJpr0Jh37NgbFHHJYMHad7699e-unPTiasSeWwbQLHG7i2ounilIwMPd2c0IUGEcx-WHJfF1UZH1gpTSm2KEjTKp1s7FI39~fuHOhEYMy3fEcgnT5dL-j1pZPRmvpqtVAW8DZ6JMMnSFOELrI8PqDp4cDrp0YZr0gweIFT-Y_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
