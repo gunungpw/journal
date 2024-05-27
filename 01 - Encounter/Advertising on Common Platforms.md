@@ -1,3 +1,0 @@
-Marketers need many tools in their toolbox, and one of them to draw on is a knowledge of which platforms offer what opportunities for marketing and advertising. Download the following guide to learn about few common platforms.
-
-[Advertising on Common Platforms.pdf PDF File](https://d3c33hcgiwev3.cloudfront.net/5WoIiwf-TVCqCIsH_t1QQA_d60645a1dafe4b93ab0bbb2008c057f1_Advertising-on-Common-Platforms.pdf?Expires=1715644800&Signature=en42-lz-ERoK~kMuuY6rJUUPu5Cg6WGxYyi6B2v3pg3fTY-wHUy~oAuHPz2GxWKC6WC1Ugif60TQEURwjXQVXnkRPb8BMAgbtRyr-P90FsjnSJeHgh~kRPW6rkXlw0b-stKJQzTchQ8NldDGRuwf5OmRjnUTg6wDQin~UQu2QJg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
