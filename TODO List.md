@@ -1,5 +1,11 @@
 # TODO List
 
+# Overview
+```tasks
+short mode
+not done
+sort by due
+```
 ## Plan
 - [ ] Learning Indonesia Language
 - [ ] Learning Continuous Improvement
@@ -12,6 +18,9 @@
 - [ ] Learning Supply Chain Management
 - [ ] Learning Supply Chain Optimization
 
+## Recurring
+- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-01
+- [x] Write 2 Page of Anything 🔁 every day 🛫 2024-05-31 ✅ 2024-05-31
 ## Todo
 - [ ] Register Digitalent ➕ 2024-05-24 📅 2024-06-19
 - [x] Complete Google IT Support ➕ 2024-05-24 📅 2024-06-27 ✅ 2024-05-27
