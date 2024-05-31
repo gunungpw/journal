@@ -10,5 +10,7 @@
 - [x] Complete Google Project Management Course 4 📅 2024-05-30 ✅ 2024-05-30
 - [x] Complete Google Project Management Course 5 📅 2024-05-31 ✅ 2024-05-30
 - [x] Complete Google Project Management Course 6 📅 2024-06-01 ✅ 2024-05-31
-- [x] Register Brighten English Batch 53 TOEFL 📅 2024-05-31 ✅ 2024-05-31
+- [x] Register Brighten English Batch 53 TOEFL Test 📅 2024-05-31 ✅ 2024-05-31
 - [x] Register Skilvul Innovation Challenge Cycle 2 📅 2024-06-03 ✅ 2024-05-31
+- [x] Register Universal English Official TOEFL Test 📅 2024-05-31 ✅ 2024-05-31
+- [x] Register Elskill English Batch 47 TOEFL Test 📅 2024-06-01 ✅ 2024-05-31
