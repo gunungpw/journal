@@ -9,4 +9,5 @@
 - [x] Complete Google IT Support Course 5 📅 2024-05-27 ✅ 2024-05-27
 - [x] Complete Google Project Management Course 4 📅 2024-05-30 ✅ 2024-05-30
 - [x] Complete Google Project Management Course 5 📅 2024-05-31 ✅ 2024-05-30
-- [ ] Complete Google Project Management Course 6 📅 2024-06-01
+- [x] Complete Google Project Management Course 6 📅 2024-06-01 ✅ 2024-05-31
+- [ ] Register Brighten English Batch 53 TOEFL 📅 2024-05-31
