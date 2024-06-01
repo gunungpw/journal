@@ -19,7 +19,8 @@ sort by due
 - [ ] Learning Supply Chain Optimization
 
 ## Recurring
-- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-01
+- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-02
+- [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-01 ✅ 2024-06-01
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-05-31 ✅ 2024-05-31
 ## Todo
 - [ ] Register Digitalent ➕ 2024-05-24 📅 2024-06-19
