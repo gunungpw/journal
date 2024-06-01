@@ -44,7 +44,7 @@ done on today
 - [x] Register Program Google Arcade Fasilitator 2024 📅 2014-06-15 ✅ 2024-05-31
 - [ ] Revise Resume 📅 2024-06-03
 - [ ] Revise Cover Letter 📅 2024-06-03
-- [ ] Complete Meta Marketing Analytics Course 3 📅 2024-06-01
+- [x] Complete Meta Marketing Analytics Course 3 📅 2024-06-01 ✅ 2024-06-01
 - [ ] Complete Meta Marketing Analytics Course 4 📅 2024-06-02 
 - [ ] Complete Meta Marketing Analytics Course 5 📅 2024-06-03
 - [ ] Complete Meta Marketing Analytics Course 6 📅 2024-06-04 
