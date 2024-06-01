@@ -45,8 +45,9 @@ done on today
 - [ ] Revise Resume 📅 2024-06-03
 - [ ] Revise Cover Letter 📅 2024-06-03
 - [x] Complete Meta Marketing Analytics Course 3 📅 2024-06-01 ✅ 2024-06-01
-- [ ] Complete Meta Marketing Analytics Course 4 📅 2024-06-02 
+- [x] Complete Meta Marketing Analytics Course 4 📅 2024-06-02 ✅ 2024-06-01
 - [ ] Complete Meta Marketing Analytics Course 5 📅 2024-06-03
 - [ ] Complete Meta Marketing Analytics Course 6 📅 2024-06-04 
 - [ ] Complete Meta Marketing Analytics Course 7 📅 2024-06-05 
-- [ ] Complete Meta Marketing Analytics Course 8 📅 2024-06-06 
+- [ ] Complete Meta Marketing Analytics Course 8 📅 2024-06-06
+- [ ] Complete University of Helsinki Project for Python Data Analytic 📅 2024-06-01 
