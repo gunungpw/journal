@@ -23,7 +23,8 @@ done on today
 - [ ] Learning Supply Chain Optimization
 
 ## Recurring
-- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-04
+- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-05
+- [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-04 ✅ 2024-06-04
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-03 ✅ 2024-06-03
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-02 ✅ 2024-06-02
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-01 ✅ 2024-06-01
@@ -53,3 +54,11 @@ done on today
 - [x] Complete Meta Marketing Analytics Course 7 📅 2024-06-05 ✅ 2024-06-03
 - [x] Complete Meta Marketing Analytics Course 8 📅 2024-06-06 ✅ 2024-06-03
 - [ ] Complete University of Helsinki Project for Python Data Analytic 📅 2024-06-01
+
+### Courses
+ - [ ] California Institute of the Arts - Graphic Design Specialization
+	 - [ ] Fundamentals of Graphic Design 📅 2024-06-04
+	 - [ ] Introduction to Typography 📅 2024-06-05
+	 - [ ] Introduction to Imagemaking 📅 2024-06-06
+	 - [ ] Ideas from the History of Graphic Design 📅 2024-06-07 
+	 - [ ] Brand New Brand 📅 2024-06-08 
