@@ -23,10 +23,11 @@ done on today
 - [ ] Learning Supply Chain Optimization
 
 ## Recurring
-- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-13
+- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-14
+- [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-13 ✅ 2024-06-13
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-12 ✅ 2024-06-12
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-11 ✅ 2024-06-11
-- [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-10
+- [-] Write 2 Page of Anything 🔁 every day 🛫 2024-06-10 ❌ 2024-06-10
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-09 ✅ 2024-06-09
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-08 ✅ 2024-06-08
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-07 ✅ 2024-06-07
