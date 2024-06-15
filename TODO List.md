@@ -24,6 +24,8 @@ done on today
 
 ## Recurring
 - [ ] Write 2 Page of Anything 🔁 every day 🛫 2024-06-16
+- [ ] Exercise for 10 minutes 🔁 every day 🛫 2024-06-16
+- [x] Exercise for 10 minutes 🔁 every day 🛫 2024-06-15 ✅ 2024-06-15
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-15 ✅ 2024-06-15
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-14 ✅ 2024-06-14
 - [x] Write 2 Page of Anything 🔁 every day 🛫 2024-06-13 ✅ 2024-06-13
