@@ -73,6 +73,7 @@ done on today
 - [x] Complete Meta Marketing Analytics Course 7 📅 2024-06-05 ✅ 2024-06-03
 - [x] Complete Meta Marketing Analytics Course 8 📅 2024-06-06 ✅ 2024-06-03
 - [ ] Complete University of Helsinki Project for Python Data Analytic 📅 2024-06-01
+- [ ] Kumpulkan CV untuk Skilvul
 
 ### Courses
  - [ ] California Institute of the Arts - Graphic Design Specialization
