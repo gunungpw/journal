@@ -9,7 +9,6 @@
 | Minggu | 09.00-10.30 |   14.00-15.30   | 16.00-17.30 |     |
 
 Note: * = Private
-
 Note: ** = Belajar Bareng Sayang
 
 MMVIIIVI
